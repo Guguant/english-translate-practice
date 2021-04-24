@@ -1,6 +1,6 @@
-# english-diary-by-Soleil
+# soleil diary
 
-what happend today? Please let Soleil tell you.
+what happend today? Soleil talk.
 
 ## Creative Commons
 
